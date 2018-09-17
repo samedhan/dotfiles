@@ -1,0 +1,29 @@
+[user]
+	name = Samedhan Karamese
+	email = samedhan.karamese@gmail.com
+[alias]
+	gst = status
+	gcm = commit
+	gbr = branch
+	gco = checkout
+	gdf = diff
+	gau = add -u
+
+
+[color]
+	ui = auto
+[color "branch"]
+	current = yellow reverse
+	local = yellow
+	remote = green
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
+[diff]
+	tool = vimdiff
+[core]
+	editor = vim
+[github]
+	user = samedhan
+
