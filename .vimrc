@@ -22,6 +22,8 @@ set autoindent
 set shiftwidth=4
 set cursorline
 set showmatch
+set relativenumber
+
 let python_highlight_all = 1
 
 
