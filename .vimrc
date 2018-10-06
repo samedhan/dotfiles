@@ -26,5 +26,8 @@ set relativenumber
 
 let python_highlight_all = 1
 
+let mapleader = ","
 
+imap jj <Esc>
+nnoremap Y y$
 
